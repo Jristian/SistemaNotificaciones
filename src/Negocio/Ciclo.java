@@ -15,7 +15,11 @@ public class Ciclo {
     private String descripcion;
     
     public Ciclo (){
-        
+                
+    }
+    
+    public void establecerid(int cedula){
+        id=cedula;
     }
     
 }
