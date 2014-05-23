@@ -17,4 +17,8 @@ public class Ciclo {
     public Ciclo (){
         
     }
+    
+    public void establecerid(int cedula){
+        id = cedula;
+        }
 }
